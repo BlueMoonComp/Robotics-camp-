@@ -21,6 +21,11 @@ Before building the robot, we need to go over a few things about the motor we wi
 
 ![ServoMotor Image](./ServoMotor_Snippet.JPG)
 
+> ### Fun Fact
+> Servomotors are usually refered to as "servos" and they play a big part in radio-controlled airplanes, like helping to position control surfaces like elevators to help with elevation and rudders to help turn the aircraft!
+
+
+
 ### What you need to build:
 > * Studuino Unit
 > * Battery Box
@@ -66,7 +71,18 @@ You have mastered the art of creating your very own Servo Walker! Continue on to
 
 ## Activity 2
 ### Coding The Walker 
-Now it's time to code your Servo Walker! Connect your USB to the computer and open Studuino. Select the **Block Programming Environment,** then select the to transfer code that you'll make to the robot you built!
+Now it's time to code your Servo Walker! Connect your USB to the computer and open Studuino. Select the **Block Programming Environment,** then select the **Robots** tab to transfer code that you'll make to the robot you built!
+![](./code1.JPG)  
+![](./code2.JPG)
 
 ### 1
-Go to the **edit** menu and select **Port Settings** from the drop-down. Check all the boxes as shown below.
+Go to the **edit** menu and select **Port Settings** from the drop-down. 
+![](./code3.JPG)
+
+### 2 
+Make sure that you **Check all of the boxes that are checked below**.
+![](./code4.JPG)
+
+### 3 
+
+
