@@ -22,7 +22,7 @@ Before building the robot, we need to go over a few things about the motor we wi
 ![ServoMotor Image](./ServoMotor_Snippet.JPG)
 
 ### What you need to build:
-> * Studino Unit
+> * Studuino Unit
 > * Battery Box
 > * USB Cable
 > * 4 Light Aqua Blocks
@@ -60,3 +60,13 @@ now add the **battery box**.
 ### 7 
 This is what your completed robot should resemble.
 ![](./7.JPG)
+
+## Great Job Ninja!
+You have mastered the art of creating your very own Servo Walker! Continue on to your next activity lesson!
+
+## Activity 2
+### Coding The Walker 
+Now it's time to code your Servo Walker! Connect your USB to the computer and open Studuino. Select the **Block Programming Environment,** then select the to transfer code that you'll make to the robot you built!
+
+### 1
+Go to the **edit** menu and select **Port Settings** from the drop-down. Check all the boxes as shown below.
