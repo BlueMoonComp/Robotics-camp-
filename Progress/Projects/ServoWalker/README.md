@@ -20,3 +20,18 @@
 Before building the robot, we need to go over a few things about the motor we will be using, which is called a **servomotor**. There is a wide and narrow side of the motor, it's important we know which side is which, or we will end up building it wrong! 
 
 ![ServoMotor Image](./ServoMotor_Snippet.JPG)
+
+### What you need to build:
+> * Studino Unit
+> * Battery Box
+> * USB Cable
+> * 4 Light Aqua Blocks
+> * 4 Aqua Blocks
+> * 2 Servomotors
+
+---
+
+### 1 
+start by making two sets of the blocks shown below.
+
+
