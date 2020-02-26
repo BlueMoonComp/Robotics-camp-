@@ -31,7 +31,7 @@ Before building the robot, we need to go over a few things about the motor we wi
 
 ---
 
-### 1 
+### 1
 start by making two sets of the blocks shown below.
-
+![](./1.JPG)
 
