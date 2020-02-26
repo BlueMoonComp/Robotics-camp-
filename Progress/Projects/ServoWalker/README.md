@@ -19,4 +19,4 @@
 ### Building the ServoWalker!
 Before building the robot, we need to go over a few things about the motor we will be using, which is called a **servomotor**. There is a wide and narrow side of the motor, it's important we know which side is which, or we will end up building it wrong! 
 
-![alt ServoMotor Image](./ServoMotor_Snippet)
+![ServoMotor Image](./ServoMotor_Snippet.jpg)
