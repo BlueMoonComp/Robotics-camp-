@@ -80,7 +80,7 @@ Go to the **edit** menu and select **Port Settings** from the drop-down.
 ![](./code3.JPG)
 
 ### 2 
-Make sure that you **Check all of the boxes that are checked below**.
+Make sure that you **Check all of the boxes that are checked below**. Then click **ok**.
 ![](./code4.JPG)
 
 ### 3 
