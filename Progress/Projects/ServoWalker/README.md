@@ -13,3 +13,10 @@
 > #### The Main Purpose Of Building This Robot:
 > As you continue to build more robots in this workshop, you will learn how building stationary robots prepars you to build robots that move by directed actions or self-programming.
 
+---
+
+## Activity 1
+### Building the ServoWalker!
+Before building the robot, we need to go over a few things about the motor we will be using, which is called a **servomotor**. There is a wide and narrow side of the motor, it's important we know which side is which, or we will end up building it wrong! 
+
+![alt ServoMotor Image](./ServoMotor_Snippet)
