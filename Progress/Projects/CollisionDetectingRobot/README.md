@@ -7,6 +7,7 @@
 
 > ### What Will I Learn?
 > This project will teach you how to program your robot to detect collisions. For example, if there is an object in front of your robot while it's moving, it will move around it!
+> One thing to note is now we are bringing in a different motor called a **DC Motor**. Some DC Motors are used in automobiles and trains to deliver high amounts of power like in electric trains and cars to make them go forward and backward!
 
 ---
 
