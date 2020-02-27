@@ -84,5 +84,18 @@ Make sure that you **Check all of the boxes that are checked below**. Then click
 ![](./code4Four.JPG)
 
 ### 3 
+Once you're done with the port settings, your screen should look like this.
+![](./code5.JPG)
+
+### 4 
+The next thing you'll want to do is go into the motion tab on the left hand side of the screen and drag out the set servomotor block onto the coding area. You'll want to do it a few times to where your screen looks like the one below. These blocks change the angle that the servomotor moves to, which makes it move from one side to the other.
+image
+
+### 5
+For this step, we'll focus only on the code blocks that are set to the D9 servomotor. Change the degrees in that block to the numbers below.
+image
 
 
+### 6 
+For this step we'll focus only on the code blocks that are set to the D10 servomotor. Change the degrees in that block tot he numbers below.
+image 
