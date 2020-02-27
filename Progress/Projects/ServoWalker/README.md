@@ -85,7 +85,7 @@ Go to the **edit** menu and select **Port Settings** from the drop-down.
 
 ### 2 
 Make sure that you **Check all of the boxes that are checked below**. Then click **ok**.
-
+![](./code4Four.JPG)
 
 ### 3 
 
