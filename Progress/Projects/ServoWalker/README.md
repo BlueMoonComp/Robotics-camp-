@@ -102,3 +102,6 @@ For this step, we'll focus only on the code blocks that are set to the D9 servom
 For this step we'll focus only on the code blocks that are set to the D10 servomotor. Change the degrees in that block tot he numbers below.
 
 ![](./code8.JPG)
+
+### 7 
+Now, we're going to go into the 
