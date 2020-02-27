@@ -116,3 +116,7 @@ Finally, we're going to combine all of the code we've made so far into one big b
 Now it's time to transfer the code you made to the robot you also made! Make sure that the **USB cable is connecting the computer to the studuino unit**, then click on the run button, and a drop down menu will come up that has the word **Transfer** on it, click on that and the code will transfer to your robot! 
 ![](./code11.JPG)
 ## Congradulations! You built and programmed a ServoWalker!
+
+> ### Knowledge test
+> What is a **for loop**?
+
