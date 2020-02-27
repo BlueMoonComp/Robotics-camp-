@@ -104,4 +104,14 @@ For this step we'll focus only on the code blocks that are set to the D10 servom
 ![](./code8.JPG)
 
 ### 7 
-Now, we're going to go into the 
+Now, we're going to **go into the control menu**, which is located right next to the motion menu in an orange color. Once we're in the menu, you'll see a **wait block**. We want to **grab 7** of those and **change the number inside from 1 second to .08 seconds**, like in the picture below.
+![](./code9.JPG)
+
+### 8
+Finally, we're going to combine all of the code we've made so far into one big block of code! Here's a picture to help put it in order.
+![](./code10.JPG)
+
+### 9 
+Now it's time to transfer the code you made to the robot you also made! Make sure that the **USB cable is connecting the computer to the studuino unit**, then click on the run button, and a drop down menu will come up that has the word **Transfer** on it, click on that and the code will transfer to your robot! 
+![](./code11.JPG)
+## Congradulations! You built and programmed a ServoWalker!
