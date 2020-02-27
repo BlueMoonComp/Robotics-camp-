@@ -54,6 +54,7 @@ Connect the **sensor cable** to the **light sensor**. Add 3 white blocks, or whi
 
 ### 5 
 Connect the **sensor cable** to the **Blue LED**. Add 3 more white or which ever color blocks you chose to the **LED** as shown below.
+
 ![](./6.JPG)
 
 ### 6
