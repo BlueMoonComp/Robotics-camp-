@@ -88,3 +88,7 @@ Now it's time to code your Block Thrower! Connect your USB to the computer and o
 ### 1
 Go to the **edit** menu and select **Port Settings** from the drop-down. 
 ![](./code3Three.JPG)
+
+### 2 
+This picture below will pop up after clicking the **port settings**. Make sure that you check all of the boxes that are checked in the picture below.
+![](./code1
