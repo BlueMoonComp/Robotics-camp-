@@ -19,4 +19,22 @@
 
 ## Activity 1
 ### Building the Block Thrower
-Once again, before using the servomotor, make sure you know which side is which. This can be done by recognizing which side is narrow, and which side is wide.
+Once again, before using the servomotor, make sure you know which side is which. This can be done by recognizing which side is narrow, and which side is wide. This image below you can help you recognize the sides.
+![](./1.JPG)
+w
+### What You Need To Build:
+> * 2 Aqua Blocks
+> * 2 Light Aqua Blocks
+> * 7 White Blocks
+> * Blue LED Light
+> * Light Sensor
+> * 2 Sensor Cables 
+> * Studuino Unit 
+> * Battery Box 
+> * USB Cord
+> ### Note that the colors of the blocks don't really matter, just make sure you have the right amount of what ever color block you choose.
+
+---
+
+### 1
+Assemble the blocks as shown.
