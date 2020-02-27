@@ -38,6 +38,7 @@ Once again, before using the servomotor, make sure you know which side is which.
 
 ### 1
 Assemble the blocks as shown.
+
 ![](./2.JPG)
 
 ### 2 
@@ -50,6 +51,7 @@ Now add the part to the circuit borad, AKA the studuino unit.
 
 ### 4
 Connect the **sensor cable** to the **light sensor**. Add 3 white blocks, or which ever color blocks you chose to the **light sensor**, as shown below.
+
 ![](./5.JPG)
 
 ### 5 
@@ -71,6 +73,7 @@ Now insert the cables. Make sure that hey grey wire is facing the center, or els
 
 ### 9 
 This is what the should look like.
+
 ![](./10.JPG)
 
 ## Great Job Ninja!
