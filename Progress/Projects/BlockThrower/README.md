@@ -21,7 +21,7 @@
 ### Building the Block Thrower
 Once again, before using the servomotor, make sure you know which side is which. This can be done by recognizing which side is narrow, and which side is wide. This image below you can help you recognize the sides.
 ![](./1.JPG)
-w
+
 ### What You Need To Build:
 > * 2 Aqua Blocks
 > * 2 Light Aqua Blocks
