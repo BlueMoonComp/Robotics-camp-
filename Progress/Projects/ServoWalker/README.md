@@ -104,11 +104,11 @@ For this step we'll focus only on the code blocks that are set to the D10 servom
 ![](./code8.JPG)
 
 ### 7 
-Now, we're going to **go into the control menu**, which is located right next to the motion menu in an orange color. Once we're in the menu, you'll see a **wait block**. We want to **grab 7** of those and **change the number inside from 1 second to .08 seconds**, like in the picture below.
+Now, we're going to **go into the control menu**, which is located right next to the motion menu in an orange color. Once we're in the menu, you'll see a **wait block**. Wait blocks are used in code to tell what ever you're coding to wait a certain amount of time before preforming another statement! We want to **grab 7** of those and **change the number inside from 1 second to .08 seconds**, like in the picture below.
 ![](./code9.JPG)
 
 ### 8
-Finally, we're going to combine all of the code we've made so far into one big block of code! Here's a picture to help put it in order.
+Finally, we're going to combine all of the code we've made so far into one big block of code! Here's a picture to help put it in order. The **forever loop** that is surrounding all of the code in the picture is used to tell the robot that as long as the program is running, run that code **forever** until we tell the robot to stop.
 ![](./code10.JPG)
 
 ### 9 
