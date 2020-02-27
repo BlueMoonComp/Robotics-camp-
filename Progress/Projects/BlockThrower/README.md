@@ -109,4 +109,16 @@ Now we're going to make another conditional statement for **if** the **light sen
 
 ### 6
 The last step for us to do is put all of our code into a **forever loop** under a **start program block**. It should look exactly like the image below.
+![](./code6.JPG)
+
+### 7 
+Now click on the **run tab** and click on the **transfer** button, this will transfer your code you made into the robot you also made. But make sure that the **USB** is connecting your computer to the robot before you transfer or else it won't work!
+![](./code11.JPG)
+## Congradulations! You built and programmed a Block Throwing Robot!
+
+> ### Knowledge test
+> What is a **Conditional**?
+
+> What is a **Function**?
+
 
