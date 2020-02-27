@@ -90,5 +90,5 @@ Go to the **edit** menu and select **Port Settings** from the drop-down.
 ![](./code3Three.JPG)
 
 ### 2 
-This picture below will pop up after clicking the **port settings**. Make sure that you check all of the boxes that are checked in the picture below.
-![](./code1
+This picture below will pop up after clicking the **port settings**. Make sure that you check all of the boxes that are checked in the picture below. Also, make sure that the icons next to the checked boxes match also, like the **A4 matches with the LED, A5 matches with the buzzer, and A6 and A7 match with light sensor.**
+![](./code1.JPG)
