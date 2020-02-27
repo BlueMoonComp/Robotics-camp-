@@ -72,15 +72,11 @@ You have mastered the art of creating your very own Servo Walker! Continue on to
 ## Activity 2
 ### Coding The Walker 
 Now it's time to code your Servo Walker! Connect your USB to the computer and open Studuino. Select the **Block Programming Environment,** then select the **Robots** tab to transfer code that you'll make to the robot you built!
-![](./code1.JPG)
 ![](./code1One.JPG)
-
-![](./code2.JPG)
 ![](./code2Two.JPG)
 
 ### 1
 Go to the **edit** menu and select **Port Settings** from the drop-down. 
-![](./code3.JPG)
 ![](./code3Three.JPG)
 
 ### 2 
