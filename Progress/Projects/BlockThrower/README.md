@@ -82,3 +82,9 @@ You have mastered the art of creating your very own Block Thrower! Continue on t
 ## Activity 2
 ### Coding The Block Thrower 
 Now it's time to code your Block Thrower! Connect your USB to the computer and open Studuino. Select the **Block Programming Environment,** then select the **Robots** tab to transfer code that you'll make to the robot you built!
+![](./code1One.JPG)
+![](./code2Two.JPG)
+
+### 1
+Go to the **edit** menu and select **Port Settings** from the drop-down. 
+![](./code3Three.JPG)
