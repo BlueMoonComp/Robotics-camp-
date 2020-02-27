@@ -33,6 +33,7 @@ Before building the robot, we need to go over a few things about the motor we wi
 > * 4 Light Aqua Blocks
 > * 4 Aqua Blocks
 > * 2 Servomotors
+> ### Note that the colors of the blocks don't really matter, just make sure you have the right amount of what ever color block you choose.
 
 ---
 
