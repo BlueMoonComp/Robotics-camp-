@@ -99,10 +99,14 @@ Our first code will actually be a function called **BlueBlock.** A function in c
 ![](./code2.JPG)
 
 ### 4
-Next, we're going to set up our **conditional statements**. Conditionals in code are statements that depend on a certain event to occur to move onto the code after that conditional. The first conditional that we will be using is to see if the **light sensor** on the robot detects a value **less than** 50 **OR** the light sensor **equals** 30. If either of those events are true, then we will call, or activate the **BlueBlock** function that you made. Make sure that your code matches the code in the picture below. I broke down the first image to help you understand how to build the code to look like the final image.
+Next, we're going to set up our **conditional statements**. Conditionals in code are statements that depend on a certain event to occur to move onto the code after that conditional. The first conditional that we will be using is to see if the **light sensor** on the robot detects a value **less than** 50 **OR** the light sensor **equals** 30. If either of those events are true, then we will call, or activate the **BlueBlock** function that you made. Make sure that your code matches the code in the picture below. I broke down the first image to help you understand how to build the code to look like the final image. If you're wandering where I got the light sensor block, it's in the **sensing menu**, and the less than and equal to signs are in the **operators menu**.
 ![](./code3.JPG)
 ![](./code4.JPG)
 
 ### 5
 Now we're going to make another conditional statement for **if** the **light sensor** doesn't detect a block that's light value is **greater than** 70. It should look like the code below.
+![](./code5.JPG)
+
+### 6
+The last step for us to do is put all of our code into a **forever loop** under a **start program block**. It should look exactly like the image below.
 
