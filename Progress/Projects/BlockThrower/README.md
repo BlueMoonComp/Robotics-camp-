@@ -92,3 +92,11 @@ Go to the **edit** menu and select **Port Settings** from the drop-down.
 ### 2 
 This picture below will pop up after clicking the **port settings**. Make sure that you check all of the boxes that are checked in the picture below. Also, make sure that the icons next to the checked boxes match also, like the **A4 matches with the LED, A5 matches with the buzzer, and A6 and A7 match with light sensor.**
 ![](./code1.JPG)
+
+### 3 
+Our first code will actually be a function called **BlueBlock.** A function in code is a named group of statements, or blocks of code in this case, that preform a specific task. The **BlueBlock** functions specific task is going to be to activate the catapult! So we'll need to go into the **control menu** and pick out the function block. It'll be blank, so click in the blank spot and click the **new** button and type **BlueBlock**. After that, we'll need to go into the **motion menu** and get our **LED** block. Then go into **control** again and pull out a **wait block** and leave it at 1 second. After that, go back into the **motion menu** and grab the **set servomotor D9 to 90** block. You'll put those all together like in the picture below. This will be your fist function for the robot!
+![](./code2.JPG)
+
+### 4
+Next, we're going to set up our **conditional statements**. Conditionals in code are statements that depend on a certain event to occur to move onto the code after that conditional. The first conditional that we will be using is to see if the **light sensor** on the robot detects a value **less than** 50 **OR** the light sensor **equals** 30. If either of those events are true, then we will call, or activate the **BlueBlock** function that you made. Make sure that your code matches the code in the picture below.
+![](./code3.JPG)
