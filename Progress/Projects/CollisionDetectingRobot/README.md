@@ -67,6 +67,7 @@ Now push the blocks into the base as shown in the image.
 
 ### 9
 Place the battery box on the base of the studuino unit. Connect the **Battery Cable** and the **Sensor Cable** to **A5** on the studuino unit.
+
 ![](./9.JPG)
 
 ### 10
