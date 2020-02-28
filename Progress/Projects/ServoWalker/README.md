@@ -38,7 +38,7 @@ Before building the robot, we need to go over a few things about the motor we wi
 ---
 
 ### 1
-start by making two sets of the blocks shown below.
+Start by making two sets of the blocks shown below.
 ![](./1.JPG)
 
 ### 2 
@@ -55,11 +55,11 @@ Assemble the parts as shown in the image.
 ![](./4.JPG)
 
 ### 5 
-insert hte cables for the **D9 and D10 Servomotors** into the ports shown on the circuit board.
+Insert the cables for the **D9 and D10 Servomotors** into the ports shown on the circuit board.
 ![](./5.JPG)
 
 ### 6 
-now add the **battery box**.
+Now add the **battery box**.
 
 ![](./6.JPG)
 
