@@ -34,4 +34,55 @@
 ---
 
 ### 1
+Assemble the two **DC Motors and wheels**.
+![](./1.JPG)
+
+### 2 
+Attach a third wheel to the blocks as shown.
+![](./2.JPG)
+
+### 3 
+Add the **DC Motors** and the part from step 2 to the **Studuino Unit**.
+![](./3.JPG)
+
+### 4 
+Insert the cables for the **DC motors M1 and M2** into the ports shown on the **Studuino Unit**.
+![](./4.JPG)
+
+### 5 
+Make the two sets of the blocks as shown.
+![](./5.JPG)
+
+### 6 
+Add a **Buzzer** to one of the parts you created from step 5 and then add a **Sensor Cable**
+![](./6.JPG)
+
+### 7 
+Add the parts from step 5 and 6 as shown below.
+![](./7.JPG)
+
+### 8 
+Now push the blocks into the base as shown in the image.
+![](./8.JPG)
+
+### 9
+Place the battery box on the base of the studuino unit. Connect the **Battery Cable** and the **Sensor Cable** to **A5** on the studuino unit.
+![](./9.JPG)
+
+### 10
+Connect the **Sensor Cable** to the **IR Photoreflector Sensor** then add the white block as shown below.
+![](./10.JPG)
+
+### 11 
+Push the part from step 10 into the base of the unit as shown.
+![](./11.JPG)
+
+### 12 
+Connect the **Reflective Infrared Sensor** to **A4** on the studuino unit.
+![](./12.JPG)
+
+### 13 
+Once you're done, this is what your robot should look like.
+![](./13.JPG)
+
 
