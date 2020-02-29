@@ -35,10 +35,12 @@
 
 ### 1
 Assemble the two **DC Motors and wheels**.
+
 ![](./1.JPG)
 
 ### 2 
 Attach a third wheel to the blocks as shown.
+
 ![](./2.JPG)
 
 ### 3 
@@ -51,6 +53,7 @@ Insert the cables for the **DC motors M1 and M2** into the ports shown on the **
 
 ### 5 
 Make the two sets of the blocks as shown.
+
 ![](./5.JPG)
 
 ### 6 
