@@ -116,8 +116,10 @@ Now we'll set up our last function, which will be called the **Forward Function*
 
 ### 5 
 Now, we'll set up our main chunk of code. Fist, we'll want to go into the **motion** menu and grab 2 **DC motor power** blocks and put them together and the power at 100. Next, grab a **forever loop**, that'll be in the **control menu**. While still in the **control menu**, get an **if/else statement and 2 repeat until blocks.** You'll put the repeat until blocks inside of if the part of the if/else statement. It should look like the image below.
+
 ![](./code6.JPG)
 
 ### 6 
 Now we'll make the **conditional statement** that will determine whether the robot should avoid and object or not. A **conditional statement** is a block of code that needs certain conditions to do something. Like if the number 4 is bigger than 3, then move forward or something like that. Or in this case, if the IR Photoreflectors value is greater than 2 or is equal to 30, then it will call the backup function that made and it will tell the robot to back up. So go into the **operators** menu and grab a greater than block, equal too block, and an or block, and assemble it like in the picture below.
+
 ![](./code7.JPG)
