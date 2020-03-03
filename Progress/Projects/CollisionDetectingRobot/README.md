@@ -94,3 +94,5 @@ You have mastered the art of creating your very own Collision Detecting Robot! C
 
 ## Activity 2
 ### Coding The Collision Detecting Robot 
+![](./code1One.JPG)
+![](./code2Two.JPG)
