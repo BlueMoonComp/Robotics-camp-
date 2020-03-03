@@ -101,3 +101,15 @@ You have mastered the art of creating your very own Collision Detecting Robot! C
 The first step for us to do is to go to the port settings and make sure it looks like the picture below.
 ![](./code1.JPG)
 ![](./code2.JPG)
+
+### 2 
+After that, we'll start setting up our code. The first thing we'll want to set up is the functions that we will be using later in the program. The first function we're making is going to backup our robot, so grab a function block out of the control menu and name this function **Backup**. Then, go into the **motion** menu and grab 2 of the **dc motor on at** blocks and change them to **M1 and M2 on at CCW** for both. It should look like the picture below.
+![](./code3.JPG)
+
+### 3 
+Next, we'll set up our **collision function**. This function will tell the robot what to do if it collides with an object. Again, you'll want to go into the **control menu** and grab a function block. This time you'll name it **collision**. Now, go into the **Motion** menu and grab a **DC motor off** block and 2 **DC motor on at** blocks. This function should look like the image below.
+![](./code4.JPG)
+
+### 4 
+Now we'll set up our last function, which will be called the **Forward Function**. This function will make the robot move forward when ever we call the function. Once again, grab a function block out of the **control menu**, and name it **Forward**. Next, go into the **Motion** menu and grab 2 **DC motor on at** blocks and make it look like the image below.
+![](./code5.JPG)
