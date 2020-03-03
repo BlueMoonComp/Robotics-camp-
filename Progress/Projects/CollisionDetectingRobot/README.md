@@ -89,4 +89,8 @@ Connect the **Reflective Infrared Sensor** to **A4** on the studuino unit.
 Once you're done, this is what your robot should look like.
 ![](./13.JPG)
 
+## Great Job Ninja!
+You have mastered the art of creating your very own Collision Detecting Robot! Continue on to your next activity lesson!
 
+## Activity 2
+### Coding The Collision Detecting Robot 
