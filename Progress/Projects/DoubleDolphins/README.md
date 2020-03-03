@@ -100,6 +100,7 @@ Connect 4 blocks and a 1 half block A block to the cubes to resemble the picture
 
 ### 18 
 Add the blocks to the studuino unit as shown in the picture. Add a half A block along side step 17. It's ok if you run out of blocks.
+
 ![](./18.JPG)
 
 ### 19 
