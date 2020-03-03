@@ -96,3 +96,8 @@ You have mastered the art of creating your very own Collision Detecting Robot! C
 ### Coding The Collision Detecting Robot 
 ![](./code1One.JPG)
 ![](./code2Two.JPG)
+
+### 1 
+The first step for us to do is to go to the port settings and make sure it looks like the picture below.
+![](./code1.JPG)
+![](./code2.JPG)
