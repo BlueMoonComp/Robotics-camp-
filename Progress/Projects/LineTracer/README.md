@@ -68,3 +68,33 @@ You have mastered the art of creating your very own Line Tracer Robot! Continue 
 Now it's time to code your Line Tracer! Connect your USB to the computer and open Studuino. Select the **Block Programming Environment,** then select the **Robots** tab to transfer code that you'll make to the robot you built!
 ![](./code1One.JPG)
 ![](./code2Two.JPG)
+
+### 1
+This first thing we will want to do is go into the **edit** menu and click on **port settings**, just like in the other projects. 
+![](./code1.JPG)
+
+### 2 
+Now, make sure that the port settings look like the picture below.
+![](./code2.JPG)
+
+### 3
+After that, go into the **motion** menu and grab 2 **DC Motor power** code blocks and put them together, make one at **M1** and the other at **M2**, and set their power at 60. Next, go into the **control menu** and grab a wait block and put it at the end of the motion blocks.
+![](./code3.JPG)
+
+### 4
+Now, lets go into the **control** menu again and get a forever loop and put that on the end of our wait block. Next, go into the **operators** menu and grab a less than block. Type 45 in the right white space, and go into the **sensing** menu and grab a **IR Photoreflector value** block and put it in the left white space. This is saying that if the photorelfector's value is less than 45, it will do something. We're going to put that into an if/then statement inside of the forever loop.
+![](./code4.JPG)
+
+### 5 
+Next, lets set up the inside of the if/else statement. Go into the **motion** menu and get 2 of the **DC motor off** blocks and 2 of the **DC motor on at** blocks. Put 2 of each insided the if/then statement and change them to what the picture has them as below.
+![](./code5.JPG)
+
+### 6
+Now, we're going to put all of that code together. It should look like the image below.
+![](./code6.JPG)
+
+### 7
+The last thing we want to do it is to go into the **run** menu and click on **transfer**. Make sure that the **USB** cable is conmnecting the robot to the computer before you hit transfer or else it won't work at all! 
+![](./code7.JPG)
+
+## Congradulations! You built and programmed a Line Tracing Robot!
