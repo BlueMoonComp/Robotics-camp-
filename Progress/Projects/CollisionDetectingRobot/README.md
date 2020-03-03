@@ -120,6 +120,14 @@ Now, we'll set up our main chunk of code. Fist, we'll want to go into the **moti
 ![](./code6.JPG)
 
 ### 6 
-Now we'll make the **conditional statement** that will determine whether the robot should avoid and object or not. A **conditional statement** is a block of code that needs certain conditions to do something. Like if the number 4 is bigger than 3, then move forward or something like that. Or in this case, if the IR Photoreflectors value is greater than 2 or is equal to 30, then it will call the backup function that made and it will tell the robot to back up. So go into the **operators** menu and grab a greater than block, equal too block, and an or block, and assemble it like in the picture below.
+Now, we'll make the **conditional statement** that will determine whether the robot should avoid and object or not. A **conditional statement** is a block of code that needs certain conditions to do something. Like if the number 4 is bigger than 3, then move forward or something like that. Or in this case, if the IR Photoreflectors value is greater than 2 or is equal to 30, then it will call the backup function that made and it will tell the robot to back up. So go into the **operators** menu and grab a greater than block, equal too block, and an or block, and assemble it like in the picture below.
 
 ![](./code7.JPG)
+
+### 7 
+Begin by going into the **sensing** menu and grabbing a **reset timer** block, put that in between the first repeat until block and the if statement. Next, go back into the **opertators** menu and grab 2 greater than blocks, they'll go in each repeat until block. Grab a timer variable block out of the **sensing menu** and put it in the left side of the greater than block. Make the first block say that the timer is greather 1, and the second block to say the timer is greater than 3. It should look like the picutre below.
+![](./code8.JPG)
+
+### 8 
+Finally, we're going to combine all of the code that we've made so far. 
+
