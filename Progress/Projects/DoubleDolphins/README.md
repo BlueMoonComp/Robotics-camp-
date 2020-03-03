@@ -12,3 +12,15 @@
 
 > ### The Main Purpose of Building This Robot:
 > The main purpose is to create a robot using all the tools and knowledge that you have obtained so far in these projects.
+
+---
+
+## Activity 1
+### Building the Double Dolphins
+### What you need to build:
+> * 36 White Cubes
+> * 4 Grey Triangles
+> * 2 Half A Light Grey Blocks
+> * Studuino Unit
+> * Battery Box
+> * USB Cord
