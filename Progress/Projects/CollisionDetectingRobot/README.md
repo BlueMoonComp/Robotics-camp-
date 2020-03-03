@@ -130,8 +130,17 @@ Begin by going into the **sensing** menu and grabbing a **reset timer** block, p
 
 ### 8 
 Finally, we're going to combine all of the code that we've made so far. Go into the **control** menu and grab the call function block and grab 3 of those. We're going to put 2 of those in each of the repeat until blocks and and last one in the else block. It should look like this.
+
 ![](./code9.JPG)
 
 ### 9
 Now that your code is done, all we have to do is tranfer the code you made into the robot you made! Make sure that the robot is connected to the computer using the **USB** cable. Then click on the run tab and hit transfer. Now you have a working collision detecting robot!
+
 ![](./code10.JPG)
+
+## Congradulations you just built and programmed a collision detecting robot!
+
+> ### knowledge test
+> What is a conditional statement?
+
+> What is an if/else statement?
