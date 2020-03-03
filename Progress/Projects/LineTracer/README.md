@@ -37,4 +37,22 @@
 > ### Note that the colors of the blocks don't really matter, just make sure you have the right amount of what ever color block you choose.
 
 ### 1 
+The fist part we're going to start on is the bottom of the tracer. To set that up, look at the images below.
+![](./1.JPG)
+![](>/2.JPG)
 
+### 2
+Now we'll assemble the motor. 
+![](./3.JPG)
+![](./4.JPG)
+
+### 3
+In this step we'll set up the front or "body" of the robot.
+![](./5.JPG)
+![](./6.JPG)
+![](./7.JPG)
+
+### 4
+Now, lets set up the head and arms of the roboot.
+![](./8.JPG)
+![](./9.JPG)
