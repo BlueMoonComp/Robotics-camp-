@@ -55,4 +55,16 @@ In this step we'll set up the front or "body" of the robot.
 ### 4
 Now, lets set up the head and arms of the roboot.
 ![](./8.JPG)
+
+### 5
+The end result of your robot should look similar to the picture below.
 ![](./9.JPG)
+
+## Great Job Ninja!
+You have mastered the art of creating your very own Line Tracer Robot! Continue on to your next activity lesson!
+
+## Activity 2
+### Coding the Line Tracer
+Now it's time to code your Line Tracer! Connect your USB to the computer and open Studuino. Select the **Block Programming Environment,** then select the **Robots** tab to transfer code that you'll make to the robot you built!
+![](./code1One.JPG)
+![](./code2Two.JPG)
