@@ -85,6 +85,7 @@ Next, assemble 3 cubes to resemble the picture below.
 
 ### 14
 Assemble 4 cubes to reseble the picture below.
+
 ![](./14.JPG)
 
 ### 15
@@ -127,3 +128,9 @@ This is what your finished robot should look like.
 
 ## Great Job Ninja!
 You have mastered the art of creating your very own Double Dolphin Robot! Continue on to your next activity lesson!
+
+## Activity 2
+### Coding the Double Dolphins
+Now it's time to code your Double Dolphins! Connect your USB to the computer and open Studuino. Select the **Block Programming Environment,** then select the **Robots** tab to transfer code that you'll make to the robot you built!
+![](./code1One.JPG)
+![](./code2Two.JPG)
