@@ -29,6 +29,7 @@
 ### 1
 ### Building the first dolhpin
 Assemble the blocks as shown in this picture.
+
 ![](./1.JPG)
 
 ### 2
