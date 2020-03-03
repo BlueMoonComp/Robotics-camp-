@@ -79,6 +79,7 @@ Now, make sure that the port settings look like the picture below.
 
 ### 3
 After that, go into the **motion** menu and grab 2 **DC Motor power** code blocks and put them together, make one at **M1** and the other at **M2**, and set their power at 60. Next, go into the **control menu** and grab a wait block and put it at the end of the motion blocks.
+
 ![](./code3.JPG)
 
 ### 4
@@ -87,6 +88,7 @@ Now, lets go into the **control** menu again and get a forever loop and put that
 
 ### 5 
 Next, lets set up the inside of the if/else statement. Go into the **motion** menu and get 2 of the **DC motor off** blocks and 2 of the **DC motor on at** blocks. Put 2 of each insided the if/then statement and change them to what the picture has them as below.
+
 ![](./code5.JPG)
 
 ### 6
