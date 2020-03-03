@@ -41,6 +41,7 @@ Assemble the 1 triangle block with 3 more color blocks as shown in the picture
 
 ### 4 
 Add the parts from step 1,2, and 3 together.
+
 ![](./4.JPG)
 
 ### 5
@@ -58,6 +59,7 @@ Connect 1 triangle block and 3 cube blocks to resemble the picture below.
 
 ### 8 
 Assemble 3 cubes as shown in this picture.
+
 ![](./8.JPG)
 
 ### 9 
