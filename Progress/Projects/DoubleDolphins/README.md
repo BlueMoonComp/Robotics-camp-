@@ -135,3 +135,26 @@ You have mastered the art of creating your very own Double Dolphin Robot! Contin
 Now it's time to code your Double Dolphins! Connect your USB to the computer and open Studuino. Select the **Block Programming Environment,** then select the **Robots** tab to transfer code that you'll make to the robot you built!
 ![](./code1One.JPG)
 ![](./code2Two.JPG)
+
+### 1 
+Go into the **edit** menu and select **port settings**. Make sure that yours looks like the picture below.
+![](./code1.JPG)
+
+### 2
+Now to start with the code, there isn't that much code in this project so it won't take too long. The first thing we're going to get is a forever loop which is located inside of the **control** menu. Just put that under the start program block for now.
+![](./code2.JPG)
+
+### 3 
+Now, go into the **motion** menu and grab 4 of the **Set servomotor to degrees** blocks and set them all to **D9** and change the degrees to the degrees shown in the picture. We're also going to get 3 wait blocks out of the **control** menu and change those numbers inside of it to .25 instead of 1. Set it up like in the picture below.
+![](./code3.JPG)
+
+### 4
+Now we're going to combine all of the code that we made. It should look like the picture below.
+![](./code4.JPG)
+
+### 5
+The last thing we want to do it is to go into the **run** menu and click on **transfer**. Make sure that the **USB** cable is conmnecting the robot to the computer before you hit transfer or else it won't work at all! 
+![](./code5.JPG)
+
+## Congradulations! You built and programmed a Double Dolphin art piece!
+
