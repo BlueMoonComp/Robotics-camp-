@@ -24,3 +24,8 @@
 > * Studuino Unit
 > * Battery Box
 > * USB Cord
+> ### Note that the colors of the blocks don't really matter, just make sure you have the right amount of what ever color block you choose.
+
+### 1
+### Building the first dolhpin
+Assemble the blocks as shown in this picture.
