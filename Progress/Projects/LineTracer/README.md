@@ -43,7 +43,9 @@ The fist part we're going to start on is the bottom of the tracer. To set that u
 
 ### 2
 Now we'll assemble the motor. 
+
 ![](./3.JPG)
+
 ![](./4.JPG)
 
 ### 3
