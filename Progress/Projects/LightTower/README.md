@@ -63,6 +63,7 @@ One of the last things we need to do is to build the top of the tower.
 
 ### 6 
 Now, we just have to put the parts together. At the end of your steps, your light tower should look like the last picture.
+
 ![](./13.JPG)
 ![](./14.JPG)
 ![](./15.JPG)
@@ -70,7 +71,7 @@ Now, we just have to put the parts together. At the end of your steps, your ligh
 ![](./17.JPG)
 
 ## Great Job Ninja!
-You have mastered the art of creating your very own Light Tower! Continue on to your next activity lesson!\
+You have mastered the art of creating your very own Light Tower! Continue on to your next activity lesson!
 
 ## Activity 2
 
