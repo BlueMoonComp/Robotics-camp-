@@ -90,13 +90,16 @@ Now, lets get 2 function blocks out of the **control** menu name them **song1 an
 
 ### 3 
 Next, lets set up our main block code that's going to hold the main parts of our code. First, go into the **control** menu and grab 3 if statement and a forever loop. All 3 if statements are going to go into the forever loop. Next, go into the **operators** menu and grab a greater than block, less than block, and equals too block. Put one of those in one if statement, and the same for the other two, so they should all be in 3 different if statements. Next, go into the **sensing** menu, and grab 3 **touch sensor value** blocks and put them in each operator block. Change the sensors to the senors that are in the image below. Make sure that their values match with the image below also. I broke down the first image to help set it up.
+
 ![](./code3.JPG)
 ![](./code4.JPG)
 
 ### 4 
 Now, we're going to set up our functions. Get ready, because this is a decent amount of code for each function. The first one we'll set up will be the **song1** function. Go into the **control** menu and grab a **song1** function block. Let me just break down the images below to help set up the function. All thos function does in its simplist form is change the frequency of the noise that comes from the buzzer, making it into a loop of sound. Make sure that it matches the image below. There should be a total of **8** wait blocks, **8 buzzer on frequency** blocks, and **8 buzzer off** blocks.
+
 ![](./code5.JPG)
 
 ### 5
 For the **song2** function, it'll be the same concept, just less code. This one should have a total of **7 wait** blocks, **7 buzzer on frequency** blocks, and **7 buzzer off** blocks.
+
 ![](./code6.JPG)
