@@ -119,7 +119,9 @@ Let's set up the second if statement with the conditional; of the sound sensor v
 ### 9
 Lastly, let's set up the if statement that has the conditional if the touch sensor value is equal to 0. This code will use the same LED blocks from the previous if statements, but now we're calling the functions we made. Set it up like in the picture below.
 ![](./code10.JPG)
+
 The end code should look like the image below.
+
 ![](./code11.JPG)
 
 ### 10 
