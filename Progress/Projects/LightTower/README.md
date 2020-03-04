@@ -103,3 +103,27 @@ Now, we're going to set up our functions. Get ready, because this is a decent am
 For the **song2** function, it'll be the same concept, just less code. This one should have a total of **7 wait** blocks, **7 buzzer on frequency** blocks, and **7 buzzer off** blocks.
 
 ![](./code6.JPG)
+
+### 6 
+Now it's time to set up the main code again, but this time we'll finish it. Once again, ill break it down to try and help youy build it without problems. Lets just set it up step by step to make this process as painless as possible. First, let's set up code in the main forloop. Go into the **motion** menu and grab 4 **LED on/off** blocks. Make the LED's go up in increments of 1. So start with A0, then A1, A2, and then A3, then set them all to **off**. Look in the picture below if you want some help visually setting it up.
+![](./code7.JPG)
+
+### 7 
+Now, let's set up the first if statement that has the conditional of if the light sensor value is less than 4. This time, we'll get another 4 **LED on/off** blocks from the **motion** menu. Switch them all to **on**.
+!{](./code8.JPG)
+
+### 8 
+Let's set up the second if statement with the conditional; of the sound sensor value being greater than 3. Copy the code you put in the first if statement into the second one, since they use the same code.
+![](./code9.JPG)
+
+### 9
+Lastly, let's set up the if statement that has the conditional if the touch sensor value is equal to 0. This code will use the same LED blocks from the previous if statements, but now we're calling the functions we made. Set it up like in the picture below.
+![](./code10.JPG)
+The end code should look like the image below.
+![](./code11.JPG)
+
+### 10 
+Make sure that the Light Tower is connecting the computer with a **USB** cable, or this won't work correctly. Go to the run tab at the top and click on the transfer button. This tranfers the code you made into the robot that you built.
+1[](./code12.JPG)
+
+## Congradulations! You built and programmed a Light Tower!
