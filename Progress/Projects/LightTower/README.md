@@ -81,3 +81,5 @@ Now it's time to code your Light Tower! Connect your USB to the computer and ope
 ![](./code2Two.JPG)
 
 ### 1
+First thing we will want to do is go into our **port settings**. Once you're in it it should look like the screen below, make sure that the same boxes are checked and everything matches.
+![](./code1.JPG)
