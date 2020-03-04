@@ -40,15 +40,37 @@ The first thing we are going to do is to add the battery box to the studuino uni
 
 ### 2 
 Next, we'll assemble the base of the light tower.
+![](./2.JPG)
+![](./3.JPG)
+![](./4.JPG)
+![](./5.JPG)
 
 ### 3
 After step 2, we'll make assemble the **touch sensor** to the blocks.
+![](./6.JPG)
 
 ### 4
 Now, we'll build the center of the tower.
+![](./7.JPG)
+![](./8.JPG)
+![](./9.JPG)
+![](./10.JPG)
 
 ### 5 
 One of the last things we need to do is to build the top of the tower.
+![](./11.JPG)
+![](./12.JPG)
 
 ### 6 
-Now, we just have to put the parts together.
+Now, we just have to put the parts together. At the end of your steps, your light tower should look like the last picture.
+![](./13.JPG)
+![](./14.JPG)
+![](./15.JPG)
+![](./16.JPG)
+![](./17.JPG)
+
+## Great Job Ninja!
+You have mastered the art of creating your very own Light Tower! Continue on to your next activity lesson!\
+
+## Activity 2
+
