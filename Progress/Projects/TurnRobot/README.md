@@ -72,3 +72,11 @@ This is what the robot should look like after you are done with this last step.
 
 ![](./10.JPG)
 
+## Great Job Ninja!
+You have mastered the art of creating your very own Turn Robot! Continue on to your next activity lesson!
+
+## Activity 2
+### Coding the Light Tower
+Now it's time to code your Turn Robot! Connect your USB to the computer and open Studuino. Select the **Block Programming Environment,** then select the **Robots** tab to transfer code that you'll make to the robot you built!
+![](./code1One.JPG)
+![](./code2Two.JPG)
