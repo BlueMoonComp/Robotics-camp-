@@ -37,27 +37,38 @@
 
 ### 1 
 First, let's make the bottom of the robot.
+
 ![](./1.JPG)
 
 ### 2 
 Now, let's assemble the motor, which is a DC motor.
+
 ![](./2.JPG)
+
 ![](./3.JPG)
 
 ### 3 
 Next, lets assemble the front of the robot.
+
 ![](./4.JPG)
+
 ![](./5.JPG)
+
 ![](./6.JPG)
 
 ### 4 
 After that, let's set up the sensor portion of the robot.
+
 ![](./7.JPG)
+
 ![](./8.JPG)
 
 ### 5 
 Finally, let's set up the head of the robot.
+
 ![](./9.JPG)
+
 This is what the robot should look like after you are done with this last step.
+
 ![](./10.JPG)
 
