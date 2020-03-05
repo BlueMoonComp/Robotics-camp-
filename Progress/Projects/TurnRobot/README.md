@@ -80,3 +80,11 @@ You have mastered the art of creating your very own Turn Robot! Continue on to y
 Now it's time to code your Turn Robot! Connect your USB to the computer and open Studuino. Select the **Block Programming Environment,** then select the **Robots** tab to transfer code that you'll make to the robot you built!
 ![](./code1One.JPG)
 ![](./code2Two.JPG)
+
+### 1 
+First thing we will want to do is go into our **port settings**. Once you're in it it should look like the screen below, make sure that the same boxes are checked and everything matches.
+![](./code1.JPG)
+
+### 2 
+Now, let's start by making some of the functions we're going to be using. Let's start with our **leftBack** function. Go into the **control** menu and grab a function block and name it **leftBack**. Then, go into the **motion** menu and grab 2 **DC Motor on at** and 2 **DC Motor power** blocks and put them in the function. After that, grab a wait block from the **control** menu and change the wait time to .5 instead of 1. Then go back into the **motion** menu and grab a **DC motor on at**, **DC motor power, and DC motor off** blocks, then finish it up with another wait block that only waits 1 second. Make sure it looks like the image below.
+![](./code2.JPG)
