@@ -58,4 +58,6 @@ After that, let's set up the sensor portion of the robot.
 ### 5 
 Finally, let's set up the head of the robot.
 ![](./9.JPG)
+This is what the robot should look like after you are done with this last step.
+![](./10.JPG)
 
