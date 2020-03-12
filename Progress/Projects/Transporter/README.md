@@ -43,3 +43,16 @@
 > * 1 person to read instructions
 
 ### 1 
+The first thing we are going to do is assemble the bottom of the robot.
+
+### 2 
+Now, let's assemble the motor and where it's going to go.
+
+### 3 
+Next, set up the front portion of the robots body.
+
+### 4
+After that, build the head and arms.
+
+### 5 
+This is what the robot should look like after you're finished with those 4 steps.
