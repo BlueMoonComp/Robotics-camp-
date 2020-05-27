@@ -81,3 +81,7 @@ After that, build the head and arms.
 ### 5 
 This is what the robot should look like after you're finished with those 4 steps.
 ![](./19.JPG)
+
+## Activity 2
+### Coding the Transporter
+Now it's time to code your Turn Transporter! Connect your USB to the computer and open Studuino. Select the **Block Programming Environment,** then select the **Robots** tab to transfer code that you'll make to the robot you built!
