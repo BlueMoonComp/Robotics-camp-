@@ -45,11 +45,17 @@
 ### 1 
 The first thing we are going to do is assemble the bottom of the robot.
 
-![](./7.PNG)
-![](./8.PNG)
+![](./1.PNG)
+![](./2.PNG)
 
 ### 2 
 Now, let's assemble the motor and where it's going to go.
+
+![](./3.PNG)
+![](./4.PNG)
+![](./5.PNG)
+![](./6.PNG)
+
 
 ### 3 
 Next, set up the front portion of the robots body.
