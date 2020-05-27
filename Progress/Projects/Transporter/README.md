@@ -59,6 +59,14 @@ Now, let's assemble the motor and where it's going to go.
 
 ### 3 
 Next, set up the front portion of the robots body.
+ 
+![](./7.JPG)
+![](./8.JPG)
+![](./9.JPG)
+![](./10.JPG)
+![](./11.JPG)
+![](./12.JPG)
+![](./12.JPG)
 
 ### 4
 After that, build the head and arms.
