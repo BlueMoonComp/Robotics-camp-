@@ -71,5 +71,13 @@ Next, set up the front portion of the robots body.
 ### 4
 After that, build the head and arms.
 
+![](./14.JPG)
+![](./15.JPG)
+![](./16.JPG)
+![](./17.JPG)
+![](./18.JPG)
+
+
 ### 5 
 This is what the robot should look like after you're finished with those 4 steps.
+![](./19.JPG)
